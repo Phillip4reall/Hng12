@@ -25,7 +25,7 @@ The repository task is all about to known how to set up github for use and for c
 
 ## Apk Appetize link
 
-Check the APK file from [here](https://appetize.io/app/android/com.example.hng12task1?device=pixel7&osVersion=13.0).
+Check the APK file from [here](https://appetize.io/embed/b_nnnvgujfjfcraeiim7we7ojwzi).
 
 
 
