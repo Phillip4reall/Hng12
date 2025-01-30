@@ -14,7 +14,7 @@ The repository task is all about to known how to set up github for use and for c
 1. clone the repository
 
   ```sh
-  git clone https://github.com/MrKhay/wifi_picker.git
+  git clone https://github.com/Phillip4reall/Hng12.git
   ```
 
 2. Open the project in your chosen development environment (e.g., Android Studio for Android, Xcode for iOS).
